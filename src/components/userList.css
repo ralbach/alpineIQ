@@ -1,0 +1,13 @@
+.user-list {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100vw;
+}
+.user-search-bar {
+    display: flex;
+    border-radius: 5px;
+    width: 90vw;
+    margin: 20px;
+    height: 40px;
+    font-size: 20px;
+}
